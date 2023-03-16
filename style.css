@@ -112,7 +112,29 @@ ul {
 }
 
 .container3{
-    
+    display: flex;
+    justify-content: center;
+    background-color: #e5e7eb;
+}
+
+.container3-text{
+    padding: 80px;
+}
+
+.container3-quote{
+    max-width: 800px;
+    font-size: 36px;
+    font-style: italic;
+    color: #1f2937;
+    margin: 0;
+}
+
+.container3-credit{
+    text-align: end;
+    font-size: 18px;
+    color: #1f2937;
+    font-weight: bold;
+    margin: 0;
 }
 
 .container4{
